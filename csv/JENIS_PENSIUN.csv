@@ -1,0 +1,20 @@
+﻿TABREF JENIS_PENSIUN,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8
+ID,NAMA,,,,,,,
+8,Pemberhentian Dengan Hormat,,,,,,,
+9,Pemberhentian Tidak Hormat,,,,,,,
+4,Non BUP Janda/Duda KPP,,,,,,,
+1,BUP non KPP,,,,,,,
+7,Berhenti Atas Permintaan Sendiri,,,,,,,
+2,BUP KPP,,,,,,,
+3,Non BUP Janda/Duda non KPP,,,,,,,
+5,Non BUP Anumerta,,,,,,,
+6,Non BUP Cacat Karena Dinas,,,,,,,
+10,Uzur,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,META DATA,,,,
+,,,,Name,Null?,Type,Parameter,Keterangan
+,,,,ID,NOT NULL,VARCHAR2(2),,ID_JENIS_PENSIUN
+,,,,NAMA,,VARCHAR2(35),,NAMA

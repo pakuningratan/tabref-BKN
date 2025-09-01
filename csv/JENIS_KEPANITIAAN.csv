@@ -1,0 +1,21 @@
+﻿TABREF JENIS_KEPANITIAAN,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+JENIS_ORGANISASI,NAMA,,,
+0,Tidak ikut dalam organisasi,,,
+1,Politik,,,
+2,"Ekonomi, termasuk Badan Usaha Negara",,,
+3,Sosial,,,
+4,Kebudayaan,,,
+5,Pendidikan,,,
+6,Keagamaan,,,
+7,Olah raga,,,
+8,Golongan Karya,,,
+9,Organisasi Masa,,,
+A,Lain - Lain,,,
+B,Dharma Wanita,,,
+C,KORPRI,,,
+,,,,
+META DATA,,,,
+Name,Null?,Type,Parameter,Keterangan
+JENIS_ORGANISASI,NOT NULL,CHAR(2),,Kode Jenis Organisasi
+NAMA,,VARCHAR2(200),,Nama Kepanitiaan

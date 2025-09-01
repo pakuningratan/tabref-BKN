@@ -1,0 +1,19 @@
+﻿id,detail_layanan_nama,document,file_type,link_proses,mandatory
+1179,Riwayat Kinerja,Dokumen Evaluasi Kinerja,PDF,,True
+890,Riwayat Kinerja,Dokumen Evaluasi Kinerja,PDF,,True
+874,Riwayat Diklat,Dok Sertifikat Diklat,PDF,,True
+879,Riwayat Angka Kredit,Dok PAK,PDF,,True
+880,Riwayat Angka Kredit,SK PAK,PDF,,True
+891,Riwayat SKP,Dok Realisasi SKP,PDF,,True
+881,Riwayat Kursus,Dok Sertifikat Kursus,PDF,,True
+882,Hukuman Disiplin,Dok SK Hukuman Disiplin,PDF,,True
+872,Riwayat Jabatan,Dok SK Jabatan,,,True
+873,Riwayat Jabatan,Dok Surat Pelantikan,PDF,,False
+887,PNS,Dok SK PNS,PDF,,True
+888,PNS,Dok Surat Perintah Melaksanakan Tugas,PDF,,True
+889,PNS,Dok SK CPNS,PDF,,True
+892,Riwayat Penghargaan,Dok Sertifikat Penghargaan,PDF,,True
+1683,Riwayat Sertifikasi,Dok Sertifikat,PDF,,True
+1619,Riwayat Tugas Belajar,Dok Surat Keterangan Universitas,,,
+1620,Riwayat Tugas Belajar,Surat Akreditasi Program Studi,,,
+1621,Riwayat Tugas Belajar,Surat Rekomendasi Jurusan,,,

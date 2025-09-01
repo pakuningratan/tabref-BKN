@@ -1,0 +1,22 @@
+﻿TABREF JENIS_PEGAWAI_ID,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,,,,,,,
+ID,NAMA,,META DATA,,,,
+1,PNS Pusat yang bekerja pada Departemen/Lembaga,,Name,Null?,Type,Parameter,Keterangan
+2,PNS Pusat DPB pada Instansi lain,,ID,NOT NULL,VARCHAR2(2),,ID yang otomatis ter-generate saat data dibuat
+3,PNS Pusat DPK pada Instansi lain,,NAMA,NOT NULL,VARCHAR2(50),,Nama Jenis Pegawai
+4,PNS Pusat DPB pada Pemerintah Propinsi,,,,,,
+5,PNS Pusat DPK pada Pemerintah Propinsi,,,,,,
+6,PNS Pusat DPB pada Pemerintah Kabupaten/Kota,,,,,,
+7,PNS Pusat DPK pada Pemerintah Kabupaten/Kota,,,,,,
+8,PNS Pusat DPB pada BUMN/Badan lain,,,,,,
+9,PNS Pusat DPK pada BUMN/Badan lain,,,,,,
+10,PNS Daerah Propinsi yang bekerja pada Propinsi,,,,,,
+11,PNS Daerah Propinsi DPB pada Instansi lain,,,,,,
+12,PNS Daerah Propinsi DPK pada Instansi lain,,,,,,
+13,PNS Daerah Propinsi DPB pada BUMN/BUMD,,,,,,
+14,PNS Daerah Propinsi DPK pada BUMN/BUMD,,,,,,
+15,PNS Daerah Kab./Kota yang bekerja pada Kab./Kota,,,,,,
+16,PNS Daerah Kab./Kota DPB pada Instansi lain,,,,,,
+17,PNS Daerah Kab./Kota DPK pada Instansi lain,,,,,,
+18,PNS Daerah Kab./Kota DPB pada BUMN/BUMD,,,,,,
+19,PNS Daerah Kab./Kota DPK pada BUMN/BUMD,,,,,,

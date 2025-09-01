@@ -1,0 +1,20 @@
+﻿TABREF GOLONGAN_ID,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+,,,,,,,,,
+ID,NAMA,NAMA PANGKAT,GOL PPPK,,META DATA,,,,
+11,I/a,Juru Muda,I,,Name,Null?,Type,Parameter,Keterangan
+12,I/b,Juru Muda Tingkat I,II,,ID,NOT NULL,VARCHAR2(2),,ID yang otomatis ter-generate saat data dibuat
+13,I/c,Juru,III,,NAMA,NOT NULL,VARCHAR2(5),,Nama Golongan
+14,I/d,Juru Tingkat I,IV,,,,,,
+21,II/a,Pengatur Muda,V,,,,,,
+22,II/b,Pengatur Muda Tingkat I,VI,,,,,,
+23,II/c,Pengatur,VII,,,,,,
+24,II/d,Pengatur Tingkat I,VIII,,,,,,
+31,III/a,Penata Muda,IX,,,,,,
+32,III/b,Penata Muda Tingkat I,X,,,,,,
+33,III/c,Penata,XI,,,,,,
+34,III/d,Penata Tingkat I,XII,,,,,,
+41,IV/a,Pembina,XIII,,,,,,
+42,IV/b,Pembina Tingkat I,XIV,,,,,,
+43,IV/c,Pembina Utama Muda,XV,,,,,,
+44,IV/d,Pembina Utama Madya,XVI,,,,,,
+45,IV/e,Pembina Utama,XVII,,,,,,

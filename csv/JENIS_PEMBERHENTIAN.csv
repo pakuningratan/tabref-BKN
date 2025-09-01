@@ -1,0 +1,23 @@
+﻿TABREF JENIS_PEMBERHENTIAN,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+ID,NAMA,,,,,,
+1,Pemberhentian Karena BUP,,,,,,
+2,Pemberhentian Karena Meninggal Dunia,,,,,,
+3,Pemberhentian Karena Atas Permintaan Sendiri,,,,,,
+4,Pemberhentian Karena Cacat,,,,,,
+5,Pemberhentian Karena Keuzuran Jasmani,,,,,,
+6,Pemberhentian Karena Tewas,,,,,,
+7,Pemberhentian Karena Hukuman Disiplin,,,,,,
+11,Pemberhentian Krn Pelanggaran Sumpah/Janji Jabatan,,,,,,
+8,Pemberhentian Karena menjadi Anggota Parpol,,,,,,
+9,Pemberhentian Karena Penyederhanaan Organisasi,,,,,,
+10,Pemberhentian Karena Pelanggaran Sumpah/Janji PNS,,,,,,
+12,Pemberhentian Karena Melakukan Tindak Pidana,,,,,,
+13,Pemberhentian Karena Meninggalkan Tugas,,,,,,
+14,Pemberhentian Karena Dinyatakan Hilang,,,,,,
+15,Pemberhentian Krn > 6 Bulan stlh CLTN tdk melapor,,,,,,
+16,Pemberhentian Karena Kasus Tipikor,,,,,,
+,,,,,,,
+,,,META DATA,,,,
+,,,Name,Null?,Type,Parameter,Keterangan
+,,,ID,NOT NULL,VARCHAR2(2),,ID_JENIS_HENTI
+,,,NAMA,,VARCHAR2(20),,NAMA

@@ -1,0 +1,26 @@
+﻿id,jenis_diklat,jenis_kursus_sertipikat
+1,Diklat Struktural,T
+2,Diklat Fungsional,F
+3,Diklat Teknis,T
+4,Workshop,P
+5,Pelatihan Manajerial,T
+6,Pelatihan Sosial Kultural,T
+7,Sosialisasi,P
+8,Bimbingan Teknis,T
+9,Seminar,P
+10,Magang,T
+11,Kursus,T
+12,Penataran,T
+13,Pengembangan Kompetensi Dalam Bentuk Pelatihan klasikal lainnya,T
+14,Coaching,T
+15,Mentoring,T
+16,E-Learning,T
+17,Pelatihan Jarak Jauh,T
+18,Detasering (Secondment),T
+19,Pembelajaran Alam Terbuka (Outbond),T
+20,Patok Banding (Benchmarking),T
+21,Pertukaran Antara Pns Dengan Pegawai Swasta/Badan Usaha Milik Negara/ Badan Usaha Milik Daerah,T
+22,Belajar Mandiri (Self Development),T
+23,Komunitas Belajar (Community Of Practices),T
+24,Bimbingan Di Tempat Kerja,T
+25,Pengembangan Kompetensi Dalam Bentuk Pelatihan Nonklasikal Lainnya,T

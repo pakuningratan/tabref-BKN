@@ -1,0 +1,9 @@
+﻿id,jabatan,kriteria,persentase,keterangan,jenjang
+12,Ahli Pertama,12.5,100,Baik,PT
+22,Ahli Muda,25.0,100,Baik,MU
+32,Ahli Madya,37.5,100,Baik,MA
+42,Ahli Utama,50.0,100,Baik,UT
+52,Pemula,3.75,100,Baik,PM
+62,Terampil,5.0,100,Baik,TR
+72,Mahir,12.5,100,Baik,MH
+82,Penyelia,25.0,100,Baik,PY

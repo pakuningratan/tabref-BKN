@@ -1,0 +1,22 @@
+﻿TABREF JENIS_KP_ID,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+ID,NAMA,,,
+101,Reguler,,,
+201,Pilihan  (Jabatan Struktural),,,
+202,Pilihan  (Jabatan Fungsional Tertentu),,,
+203,Pilihan  (Penyesuaian Ijazah),,,
+204,Pilihan  (Sedang Melaksanakan Tugas Belajar),,,
+205,Pilihan  (Setelah Selesai Tugas Belajar),,,
+206,Pilihan  (Diperbantukan/Diperkerjakan Instansi Lain),,,
+207,Pilihan  (Penemuan Baru),,,
+208,Pilihan  (Prestasi Luar Biasa),,,
+209,Pilihan  (Pejabat Negara),,,
+210,Pilihan  (Selama DPK/DPB),,,
+211,Gol. dari Pengadaan CPNS/PNS,,,
+,,,,
+,,,,
+,,,,
+META DATA,,,,
+Name,Null?,Type,Parameter,Keterangan
+ID,NOT NULL,VARCHAR2(3),,ID dari Tabref Jenis KP
+NAMA,NOT NULL,VARCHAR2(60),,Nama Jenis-jenis Kenaikan Pangkat

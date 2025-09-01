@@ -1,0 +1,54 @@
+﻿Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13
+KATEGORI WASDAL,,,KATEGORI DETAIL WASDAL,,,,SUB KATEGORI DETAIL WASDAL,,,,RUMPUN SUB KATEGORI DETAIL WASDAL,,
+,,,,,,,,,,,,,
+id_kategori,kategori,,id,id_kat_detail,nama_kat_detail,,id,nama,id_kat_jenis,,id,nama,id_sub_kat_jenis
+26672431-b529-410b-a204-5746770346b5,Pemberhentian,,39,d4a1f100-32f0-43dc-88fa-b2f27d7c65e6,CPNS ke PNS,,401,Pengangkatan Pertama,40,,4021,Umum,402
+7f408ee0-e382-4db8-af85-6f0ba05f1b03,Evaluasi Kinerja,,40,d4a1f100-32f0-43dc-88fa-b2f27d7c65e6,Ke Jabatan Fungsional,,402,Perpindahan dari jabatan lain,40,,4022,Khusus (Dosen),402
+b16d8526-47ba-472d-bdc4-a7b7dab34938,Mutasi,,41,d4a1f100-32f0-43dc-88fa-b2f27d7c65e6,Jabatan Fungsional Ke Jabatan Manajerial,,403,Penyesuaian/Inpassing,40,,4041,Umum,404
+d4a1f100-32f0-43dc-88fa-b2f27d7c65e6,Pengangkatan,,42,d4a1f100-32f0-43dc-88fa-b2f27d7c65e6,Ke Jabatan Manajerial,,404,Pengangkatan Kembali,40,,4042,Khusus (CLTN),404
+da2f5339-bcb6-4d1f-b7a9-1678a708fd8e,Pengukuhan,,43,d4a1f100-32f0-43dc-88fa-b2f27d7c65e6,Tugas Tambahan,,411,Jabatan Pengawas,41,,4111,Umum,411
+e4e3e89c-e0c3-4b14-8dab-ebfe3f260f53,Promosi,,44,e4e3e89c-e0c3-4b14-8dab-ebfe3f260f53,Kenaikan Jenjang Jabatan Fungsional,,412,Jabatan Administrator,41,,4112,Khusus (DUKCAPIL),411
+,,,45,26672431-b529-410b-a204-5746770346b5,Dari ASN,,421,Jabatan Pimpinan Tinggi,42,,4121,Umum,412
+,,,46,26672431-b529-410b-a204-5746770346b5,Dari Jabatan,,422,Jabatan Pengawas,42,,4122,"Khusus (Camat, Inspektur Pembantu)",412
+,,,47,26672431-b529-410b-a204-5746770346b5,Dari Tugas Tambahan,,423,Jabatan Administrator,42,,4123,Khusus (DUKCAPIL),412
+,,,48,26672431-b529-410b-a204-5746770346b5,Hukuman Disiplin,,431,Kepala Puskesmas,43,,4211,Instansi Wajib Seleksi terbuka,421
+,,,49,b16d8526-47ba-472d-bdc4-a7b7dab34938,Jabatan Pimpinan Tinggi,,432,Kepala Sanggar Kegiatan Belajar,43,,4212,Instansi Dikecualikan Dari Seleksi terbuka,421
+,,,50,b16d8526-47ba-472d-bdc4-a7b7dab34938,Jabatan Administrator,,451,Pemberhentian Dengan Hormat,45,,4213,Khusus (Sekretaris Daerah) Seleksi Terbuka,421
+,,,51,b16d8526-47ba-472d-bdc4-a7b7dab34938,Jabatan Pengawas,,452,Pemberhentian Tidak Dengan Hormat,45,,4214,Khusus (KASAT POL PP) Seleksi Terbuka,421
+,,,52,b16d8526-47ba-472d-bdc4-a7b7dab34938,Kepala Puskesmas,,453,Pemberhentian Sementara Dari PNS,45,,4215,Khusus (Sekretaris DPRD) Seleksi Terbuka,421
+,,,53,b16d8526-47ba-472d-bdc4-a7b7dab34938,Kepala Sekolah,,454,CPNS Meninggal Dunia,45,,4216,Khusus (Inspektur) Seleksi Terbuka,421
+,,,54,b16d8526-47ba-472d-bdc4-a7b7dab34938,Jabatan Fungsional,,461,Jabatan Pimpinan Tinggi,46,,4221,Umum,422
+,,,55,b16d8526-47ba-472d-bdc4-a7b7dab34938,Khusus Jabatan Guru,,462,Jabatan Administrator,46,,4222,Khusus (DUKCAPIL),422
+,,,56,b16d8526-47ba-472d-bdc4-a7b7dab34938,Jabatan Pelaksana,,463,Jabatan Pengawas,46,,4231,Umum,423
+,,,57,b16d8526-47ba-472d-bdc4-a7b7dab34938,PPPK,,464,Jabatan Fungsional,46,,4232,"Khusus (Camat, Inspektur Pembantu)",423
+,,,58,da2f5339-bcb6-4d1f-b7a9-1678a708fd8e,Jabatan Pimpinan Tinggi,,471,Kepala Sekolah,47,,4233,Khusus (DUKCAPIL),423
+,,,59,da2f5339-bcb6-4d1f-b7a9-1678a708fd8e,Jabatan Administrator,,472,Kepala Puskesmas,47,,4511,Atas Permintaan Sendiri,451
+,,,60,da2f5339-bcb6-4d1f-b7a9-1678a708fd8e,Jabatan Pengawas,,481,Penurunan Jabatan Setingkat Lebih Rendah Selama 12 Bulan,48,,4513,Tidak Atas Permintaan Sendiri,451
+,,,61,da2f5339-bcb6-4d1f-b7a9-1678a708fd8e,Jabatan Fungsional,,482,Pembebasan dari Jabatannya Menjadi Jabatan Pelaksana Selama 12 Bulan,48,,4531,Pejabat Negara,453
+,,,62,da2f5339-bcb6-4d1f-b7a9-1678a708fd8e,Jabatan Pelaksana,,483,Pemberhentian Dengan Hormat Tidak Atas Permintaan Sendiri (PDHTAPS),48,,4532,Komisioner / Anggota Lembaga Non-Struktural,453
+,,,63,26672431-b529-410b-a204-5746770346b5,Pemutusan Hubungan Perjanjian Kerja PPPK,,501,Umum,50,,4533,Ditahan Karena Tindak Pidana,453
+,,,64,7f408ee0-e382-4db8-af85-6f0ba05f1b03,Jabatan Pimpinan Tinggi,,502,Khusus (DUKCAPIL),50,,4611,Mengundurkan Diri,461
+,,,,,,,511,Umum,51,,4612,Diberhentikan Sementara dari PNS,461
+,,,,,,,512,Khusus (DUKCAPIL),51,,4613,Menjalani Tugas Belajar Lebih Dari 6 Bulan,461
+,,,,,,,561,Unor,56,,4614,Ditugaskan Secara Penuh Diluar Jabatan,461
+,,,,,,,562,Jabatan,56,,4615,Terjadi Penataan Organisasi,461
+,,,,,,,563,Unor dan Jabatan,56,,4616,Tidak Memenuhi Persyaratan Jabatan,461
+,,,,,,,571,Unor,57,,4617,Pembebasan Dari Jabatannya Menjadi Kepala Desa,461
+,,,,,,,611,Jabatan,61,,4621,Mengundurkan Diri,462
+,,,,,,,612,Jabatan dan Unor,61,,4622,Menjalani Tugas Belajar Lebih Dari 6 Bulan,462
+,,,,,,,613,Unor,61,,4623,Ditugaskan Secara Penuh Diluar Jabatan,462
+,,,,,,,621,Jabatan,62,,4624,Terjadi Penataan Organisasi,462
+,,,,,,,622,Jabatan dan Unor,62,,4625,Tidak Memenuhi Persyaratan Jabatan,462
+,,,,,,,623,Unor,62,,4626,Pembebasan Dari Jabatannya Menjadi Kepala Desa,462
+,,,,,,,631,Meninggal Dunia,63,,4631,Mengundurkan Diri,463
+,,,,,,,632,Dengan Hormat Tidak Atas Permintaan Sendiri,63,,4632,Menjalani Tugas Belajar Lebih Dari 6 Bulan,463
+,,,,,,,,,,,4633,Ditugaskan Secara Penuh Diluar Jabatan,463
+,,,,,,,,,,,4634,Terjadi Penataan Organisasi,463
+,,,,,,,,,,,4635,Tidak Memenuhi Persyaratan Jabatan,463
+,,,,,,,,,,,4636,Pembebasan Dari Jabatannya Menjadi Kepala Desa,463
+,,,,,,,,,,,4641,Mengundurkan Diri,464
+,,,,,,,,,,,4642,Menjalani Tugas Belajar Lebih Dari 6 Bulan,464
+,,,,,,,,,,,4643,Ditugaskan Secara Penuh Diluar Jabatan,464
+,,,,,,,,,,,4644,Terjadi Penataan Organisasi,464
+,,,,,,,,,,,4645,Tidak Memenuhi Persyaratan Jabatan,464
+,,,,,,,,,,,4646,Pembebasan Dari Jabatannya Menjadi Kepala Desa,464

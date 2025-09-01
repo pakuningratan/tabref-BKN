@@ -1,0 +1,14 @@
+﻿TABREF JENIS_KAWIN_ID,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+ID,NAMA,,,
+1,Menikah,,,
+2,Cerai,,,
+3,Janda / Duda,,,
+4,Belum Kawin,,,
+,,,,
+,,,,
+,,,,
+META DATA,,,,
+Name,Null?,Type,Parameter,Keterangan
+ID,NOT NULL,VARCHAR2(1),,ID yang otomatis ter-generate saat data dibuat
+NAMA,NOT NULL,VARCHAR2(15),,Nama Jenis Kawin

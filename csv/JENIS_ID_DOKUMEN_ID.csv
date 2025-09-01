@@ -1,0 +1,13 @@
+﻿TABREF JENIS_ID_DOKUMEN_ID,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+ID,NAMA,,,
+1,Kartu Tanda Penduduk,,,
+2,Pasport,,,
+3,Surat Izin Mengemudi,,,
+,,,,
+,,,,
+,,,,
+META DATA,,,,
+Name,Null?,Type,Parameter,Keterangan
+ID,NOT NULL,VARCHAR2(1),,ID yang otomatis ter-generate saat data dibuat
+NAMA,NOT NULL,VARCHAR2(30),,Nama jenis dokumen ID

@@ -1,0 +1,18 @@
+﻿TABREF LATIHAN_STRUKTURAL_ID,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+ID,NAMA,,,
+1,SEPADA,,,
+2,SEPALA/ADUM/DIKLAT PIM TK.IV,,,
+3,SEPADYA/SPAMA/DIKLAT PIM TK. III,,,
+4,SPAMEN/SESPA/SESPANAS/DIKLAT PIM TK. II,,,
+5,SEPATI/DIKLAT PIM TK. I,,,
+6,SESPIM,,,
+7,SESPATI,,,
+8,Diklat Struktural Lainnya,,,
+,,,,
+,,,,
+,,,,
+META DATA,,,,
+Name,Null?,Type,Parameter,Keterangan
+ID,NOT NULL,VARCHAR2(1),,ID yang otomatis ter-generate saat data dibuat
+NAMA,,VARCHAR2(40),,Nama Latihan Struktural

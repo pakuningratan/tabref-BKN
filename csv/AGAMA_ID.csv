@@ -1,0 +1,17 @@
+﻿TABREF AGAMA_ID,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+ID,NAMA,,,
+1,Islam,,,
+2,Kristen,,,
+3,Katholik,,,
+4,Hindu,,,
+5,Budha,,,
+6,Konghucu,,,
+7,Lainnya,,,
+,,,,
+,,,,
+,,,,
+META DATA,,,,
+Name,Null?,Type,Parameter,Keterangan
+ID,NOT NULL,VARCHAR2(1),,ID yang otomatis ter-generate saat data dibuat
+NAMA,NOT NULL,VARCHAR2(15),,Nama Agama
